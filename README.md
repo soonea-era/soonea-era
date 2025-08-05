@@ -1,12 +1,12 @@
 # Hi there, I'm SooNea 👋
 ### -- building quietly, designing thoughtfully.👩🏻‍💻
 
--🔭 Status: solo architect of digital spaces
--🌱 Focus: web development, design, creative tech
--📚 Learning: performance-focused frontend, data insights, and security
--🧩 Let's build: smart, clean, bold interfaces
--📫 DM me if: You're into clean UI
--⚡ Fun fact: My best ideas come during late-night design sprints 
+- 🔭 Status: solo architect of digital spaces
+- 🌱 Focus: web development, design, creative tech
+- 📚 Learning: performance-focused frontend, data insights, and security
+- 🧩 Let's build: smart, clean, bold interfaces
+- 📫 DM me if: You're into clean UI
+- ⚡ Fun fact: My best ideas come during late-night design sprints 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iso.onea) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/somnea) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mjnea_) 
